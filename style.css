@@ -1,0 +1,9 @@
+#outer{
+    border-style: dotted;
+    color: darkgreen;
+}
+.inner{
+    padding: 20px;
+    margin: 5%;
+    border-style: solid;color: purple;
+}
